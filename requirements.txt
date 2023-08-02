@@ -3,7 +3,7 @@ termcolor==1.1.0
 backdoor-factory==0.0.0
 bcrypt==3.1.7
 black==20.8b1
-cryptography==3.3.2
+cryptography==41.0.3
 distro==1.5.0
 ldapdomaindump==0.9.3
 pycryptodomex==3.9.7
