@@ -8,3 +8,4 @@ distro==1.5.0
 ldapdomaindump==0.9.3
 pycryptodomex==3.9.7
 
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
